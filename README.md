@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # admin_dashoard
 I want to make simple website including admin and users
 >>>>>>> ed568d78d9bf0604c65cf909c47196dff36d0221
+=======
+# admin_dashboard
+Modern Admin Dashboard using React and Supabase
+>>>>>>> 23d6c5429bd4f0473cff234f60d024cefa9ddf4e
